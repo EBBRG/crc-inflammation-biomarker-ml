@@ -8,6 +8,9 @@ Developed and maintained by the **Evo Biology and Bioinformatics Research Group 
 
 ---
 
+<div align="justify">
+
+
 ## Table of Contents
 
 - [Novel Contributions](#novel-contributions)
@@ -234,3 +237,5 @@ Released under the **MIT License**. See `LICENSE`.
 University of Agriculture Faisalabad, Pakistan
 
 For questions, bug reports, or feature requests, please use the GitHub issue tracker.
+
+</div>

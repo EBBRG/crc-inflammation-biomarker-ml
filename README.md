@@ -2,6 +2,8 @@
 
 ### Multi-Omics Machine-Learning Pipeline for Colorectal Cancer Inflammation Biomarker Discovery
 <div align="justify">
+
+      
 The CRC Inflammation Biomarker Discovery Pipeline integrates **classical machine learning**, a **novel Gene-Attention Transformer (GAT)**, and **SHAP-based explainability** into a unified 5-dimensional consensus-scoring framework that discovers, validates, and clinically annotates inflammation biomarkers for colorectal cancer (CRC). It performs fully automated external validation on independent GEO and TCGA cohorts and includes bootstrap stability analysis and survival analysis — all in a single reproducible run.
 
 Developed and maintained by the **Evo Biology and Bioinformatics Research Group (EBBRG)**, University of Agriculture Faisalabad.

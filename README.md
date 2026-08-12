@@ -1,6 +1,6 @@
 # CRC Inflammation Biomarker Discovery Pipeline
 
-### A Publication-Ready Multi-Omics Machine-Learning Pipeline for Colorectal Cancer Inflammation Biomarker Discovery
+### Multi-Omics Machine-Learning Pipeline for Colorectal Cancer Inflammation Biomarker Discovery
 
 The CRC Inflammation Biomarker Discovery Pipeline integrates **classical machine learning**, a **novel Gene-Attention Transformer (GAT)**, and **SHAP-based explainability** into a unified 5-dimensional consensus-scoring framework that discovers, validates, and clinically annotates inflammation biomarkers for colorectal cancer (CRC). It performs fully automated external validation on independent GEO and TCGA cohorts and includes bootstrap stability analysis and survival analysis — all in a single reproducible run.
 

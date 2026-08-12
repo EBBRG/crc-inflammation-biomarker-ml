@@ -1,4 +1,4 @@
-# CRC Inflammation Biomarker Discovery Pipeline — Advanced 2026
+# CRC Inflammation Biomarker Discovery Pipeline
 
 ### A Publication-Ready Multi-Omics Machine-Learning Pipeline for Colorectal Cancer Inflammation Biomarker Discovery
 
